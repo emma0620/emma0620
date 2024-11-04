@@ -1,9 +1,11 @@
-Hello, I'm Emma Wang.
-About Me
-'''
+# Hello, I'm Emma Wang.
+
+## About Me
+
+```python
 class Developer:
     def __init__(self):
-        self.name = "Roger Lai"
+        self.name = "Emma Wang"
         self.role = "A complete beginner striving to become a Junior Engineer."
         self.language_spoken = ["Taiwanese", "English"]
         self.code = ["Python", "JavaScript"]
@@ -15,7 +17,3 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-Tech Stack
-Python JavaScript Django TailwindCSS Alpine.js htmx Docker SQLite PostgreSQL AWS
-
-Codewars
