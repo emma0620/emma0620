@@ -13,7 +13,7 @@ class Developer:
         self.challenge = "Currently exploring the world of software engineering and learning new things everyday."
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build amazing things together!")
+        print("Glad you're here! Let's team up to create something awesome!")
 
 me = Developer()
 me.say_hi()
