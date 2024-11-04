@@ -1,6 +1,6 @@
 # Hello, I'm Emma Wang.
 
-## About Me
+## 💖✨About Me💖✨
 
 ```python
 class Developer:
