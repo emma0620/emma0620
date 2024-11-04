@@ -1,4 +1,4 @@
-# Hello, I'm Emma Wang.
+<span style="color:blue"># Hello, I'm Emma Wang.</span>
 
 ## About Me
 
