@@ -1,6 +1,6 @@
 
 <div align="center">
- ## Hello, I'm Emma Wang.
+ <h1> Hello, I'm Emma Wang.</h1>
 </div>
 
 <p align="center">
