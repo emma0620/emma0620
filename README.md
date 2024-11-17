@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=&center=true&width=380&height=50">
+  Hello, I'm Emma Wang.
 </div>
 
 <p align="center">
@@ -9,9 +9,6 @@
 
 <h2></h2>
 
-
-
-# Hello, I'm Emma Wang.
 
 ## ✨About Me
 
