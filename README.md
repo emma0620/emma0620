@@ -1,3 +1,16 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=&center=true&width=380&height=50">
+</div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=.">
+</p>
+
+<h2></h2>
+
+
+
 # Hello, I'm Emma Wang.
 
 ## ✨About Me
