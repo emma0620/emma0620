@@ -16,7 +16,7 @@
 class Developer:
     def __init__(self):
         self.name = "Emma Wang"
-        self.role = "A complete beginner striving to become a Junior Engineer."
+        self.role = "A complete beginner striving to become a Junior Developer."
         self.language_spoken = ["Taiwanese", "English"]
         self.code = ["Python", "JavaScript"]
         self.tools = ["Django", "Git", "TailwindCSS", "Alpine.js", "htmx", "SQLite/PostgreSQL", "AWS"]
