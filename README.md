@@ -1,8 +1,3 @@
-
-<div align="center">
- <h1> Hello, I'm Emma Wang.</h1>
-</div>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=.">
 </p>
