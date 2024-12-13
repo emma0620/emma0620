@@ -7,7 +7,7 @@
 
 ## ✨About Me
 
-## Skills Tree
+Skills Tree
 
 ```mermaid
 graph TD;
@@ -23,6 +23,8 @@ graph TD;
     Database --> MongoDB
     Tools --> Git
     Tools --> Docker
+
+
 
 ```python
 class Developer:
