@@ -7,6 +7,23 @@
 
 ## ✨About Me
 
+## Skills Tree
+
+```mermaid
+graph TD;
+    Front-end --> HTML
+    Front-end --> CSS
+    Front-end --> JavaScript
+    JavaScript --> React
+    JavaScript --> Alpine.js
+    Back-end --> Python
+    Python --> Django
+    Back-end --> Node.js
+    Database --> PostgreSQL
+    Database --> MongoDB
+    Tools --> Git
+    Tools --> Docker
+
 ```python
 class Developer:
     def __init__(self):
