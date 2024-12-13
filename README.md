@@ -2,27 +2,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=.">
 </p>
 
-<h2></h2>
-
-
-## ✨About Me
-
-
-
+## ✨A Web Software Engineer
+🌱Technical Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Emma Wang"
-        self.role = "A complete beginner striving to become a Junior Developer."
-        self.language_spoken = ["Taiwanese", "English"]
-        self.code = ["Python", "JavaScript"]
-        self.tools = ["Django", "Git", "TailwindCSS", "Alpine.js", "htmx", "SQLite/PostgreSQL", "AWS"]
-        self.challenge = "Currently exploring the world of software engineering and learning new things everyday."
+🌱currently learning
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-    def say_hi(self):
-        print("Glad you're here! Let's team up to create something awesome!")
 
-me = Developer()
-me.say_hi()
